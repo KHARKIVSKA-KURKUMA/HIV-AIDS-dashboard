@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <Container>
       Home
-      <Link to={"/example"}>Link to Example</Link>
+      <Link to={"/charts"}>Link to Example</Link>
     </Container>
   );
 };

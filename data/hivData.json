@@ -1,0 +1,3772 @@
+{
+  "2025": {
+    "january": {
+      "Україна": {
+        "HIV": {
+          "cases": 704,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 240,
+          "rate": 0.6,
+          "mortality": 77,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 4,
+          "mortality_rate": 0.4
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 144,
+          "rate": 4.7
+        },
+        "AIDS": {
+          "cases": 76,
+          "rate": 2.5,
+          "mortality": 13,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 18,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 30,
+          "rate": 2.5
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 1.0,
+          "mortality": 6,
+          "mortality_rate": 0.5
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 11,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 16,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 38,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.3,
+          "mortality": 7,
+          "mortality_rate": 0.4
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 2.5
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 1.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 24,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.2,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 33,
+          "rate": 3.0
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.7,
+          "mortality": 5,
+          "mortality_rate": 0.5
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 120,
+          "rate": 5.1
+        },
+        "AIDS": {
+          "cases": 57,
+          "rate": 2.4,
+          "mortality": 18,
+          "mortality_rate": 0.8
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 28,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 13,
+          "rate": 0.5,
+          "mortality": 5,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.7,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 9,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 30,
+          "rate": 3.2
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.5,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 44,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.2,
+          "mortality": 4,
+          "mortality_rate": 0.1
+        }
+      }
+    },
+    "february": {
+      "Україна": {
+        "HIV": {
+          "cases": 646,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 201,
+          "rate": 0.5,
+          "mortality": 62,
+          "mortality_rate": 0.1
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 25,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.6,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 10,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 122,
+          "rate": 3.9
+        },
+        "AIDS": {
+          "cases": 46,
+          "rate": 1.5,
+          "mortality": 12,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.2
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 2,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 25,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 17,
+          "rate": 1.4,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 14,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.1
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 46,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 5,
+          "mortality_rate": 0.3
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 29,
+          "rate": 3.2
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 1.0,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 31,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 10,
+          "rate": 0.4,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 88,
+          "rate": 3.8
+        },
+        "AIDS": {
+          "cases": 44,
+          "rate": 1.9,
+          "mortality": 11,
+          "mortality_rate": 0.5
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 16,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 9,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.5,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 57,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 21,
+          "rate": 0.8,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 3,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 61,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.3,
+          "mortality": 6,
+          "mortality_rate": 0.2
+        }
+      }
+    },
+    "march": {
+      "Україна": {
+        "HIV": {
+          "cases": 675,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 228,
+          "rate": 0.6,
+          "mortality": 96,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 30,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 14,
+          "rate": 0.9,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 117,
+          "rate": 3.8
+        },
+        "AIDS": {
+          "cases": 47,
+          "rate": 1.5,
+          "mortality": 26,
+          "mortality_rate": 0.8
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 14,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 21,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.7,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 2,
+          "rate": 0.2
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 10,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 13,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 54,
+          "rate": 3.0
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 0.7,
+          "mortality": 7,
+          "mortality_rate": 0.4
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 16,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.7,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 32,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.4,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 2.5
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.8,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 90,
+          "rate": 3.8
+        },
+        "AIDS": {
+          "cases": 45,
+          "rate": 1.9,
+          "mortality": 20,
+          "mortality_rate": 0.8
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.5,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 15,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 57,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 21,
+          "rate": 0.8,
+          "mortality": 5,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.7,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 19,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 19,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.7,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 54,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 13,
+          "rate": 0.4,
+          "mortality": 11,
+          "mortality_rate": 0.4
+        }
+      }
+    },
+    "april": {
+      "Україна": {
+        "HIV": {
+          "cases": 687,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 231,
+          "rate": 0.6,
+          "mortality": 77,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 28,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.6,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 13,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 106,
+          "rate": 3.4
+        },
+        "AIDS": {
+          "cases": 60,
+          "rate": 1.9,
+          "mortality": 22,
+          "mortality_rate": 0.7
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 15,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 35,
+          "rate": 3.0
+        },
+        "AIDS": {
+          "cases": 14,
+          "rate": 1.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 55,
+          "rate": 3.1
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.6,
+          "mortality": 7,
+          "mortality_rate": 0.4
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 29,
+          "rate": 3.2
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 1.3,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 35,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 39,
+          "rate": 3.6
+        },
+        "AIDS": {
+          "cases": 13,
+          "rate": 1.2,
+          "mortality": 5,
+          "mortality_rate": 0.5
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 81,
+          "rate": 3.5
+        },
+        "AIDS": {
+          "cases": 45,
+          "rate": 1.9,
+          "mortality": 11,
+          "mortality_rate": 0.5
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 9,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 26,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.2,
+          "mortality": 7,
+          "mortality_rate": 0.3
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 21,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 20,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.5,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 2.8
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.5,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 65,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      }
+    },
+    "may": {
+      "Україна": {
+        "HIV": {
+          "cases": 747,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 272,
+          "rate": 0.7,
+          "mortality": 89,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 26,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.6,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 11,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 132,
+          "rate": 4.3
+        },
+        "AIDS": {
+          "cases": 62,
+          "rate": 2.0,
+          "mortality": 28,
+          "mortality_rate": 0.9
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 14,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.1,
+          "mortality": 4,
+          "mortality_rate": 0.1
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 32,
+          "rate": 2.7
+        },
+        "AIDS": {
+          "cases": 16,
+          "rate": 1.4,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 13,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 55,
+          "rate": 3.1
+        },
+        "AIDS": {
+          "cases": 13,
+          "rate": 0.7,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.9,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 33,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 16,
+          "rate": 0.7,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 1.1,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 103,
+          "rate": 4.4
+        },
+        "AIDS": {
+          "cases": 63,
+          "rate": 2.7,
+          "mortality": 23,
+          "mortality_rate": 1.0
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 28,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 10,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 3,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 54,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 27,
+          "rate": 1.0,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 3,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 11,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 32,
+          "rate": 2.8
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 32,
+          "rate": 3.4
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.8,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 70,
+          "rate": 2.4
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.4,
+          "mortality": 8,
+          "mortality_rate": 0.3
+        }
+      }
+    },
+    "june": {
+      "Україна": {
+        "HIV": {
+          "cases": 709,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 236,
+          "rate": 0.6,
+          "mortality": 73,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 30,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 134,
+          "rate": 4.3
+        },
+        "AIDS": {
+          "cases": 52,
+          "rate": 1.7,
+          "mortality": 12,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 11,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.1,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 24,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 21,
+          "rate": 1.8,
+          "mortality": 8,
+          "mortality_rate": 0.7
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 10,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 46,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 10,
+          "rate": 0.6,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.9,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 30,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 46,
+          "rate": 4.2
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 1.1,
+          "mortality": 6,
+          "mortality_rate": 0.5
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 78,
+          "rate": 3.3
+        },
+        "AIDS": {
+          "cases": 33,
+          "rate": 1.4,
+          "mortality": 7,
+          "mortality_rate": 0.3
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.5,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 10,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 66,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 28,
+          "rate": 1.1,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 15,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 25,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.5,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 59,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.4,
+          "mortality": 8,
+          "mortality_rate": 0.3
+        }
+      }
+    },
+    "july": {
+      "Україна": {
+        "HIV": {
+          "cases": 636,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 217,
+          "rate": 0.5,
+          "mortality": 77,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 27,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 19,
+          "rate": 1.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 99,
+          "rate": 3.2
+        },
+        "AIDS": {
+          "cases": 39,
+          "rate": 1.3,
+          "mortality": 20,
+          "mortality_rate": 0.6
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 14,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 24,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 9,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 14,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 52,
+          "rate": 2.9
+        },
+        "AIDS": {
+          "cases": 14,
+          "rate": 0.8,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.9,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 20,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 29,
+          "rate": 2.7
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.6,
+          "mortality": 8,
+          "mortality_rate": 0.7
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 68,
+          "rate": 2.9
+        },
+        "AIDS": {
+          "cases": 29,
+          "rate": 1.2,
+          "mortality": 9,
+          "mortality_rate": 0.4
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 16,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 45,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 27,
+          "rate": 1.0,
+          "mortality": 6,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.1
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 15,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 18,
+          "rate": 1.5,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 25,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.6,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 75,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.4,
+          "mortality": 5,
+          "mortality_rate": 0.2
+        }
+      }
+    },
+    "august": {
+      "Україна": {
+        "HIV": {
+          "cases": 591,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 193,
+          "rate": 0.5,
+          "mortality": 65,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 19,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.5,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.9,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 106,
+          "rate": 3.4
+        },
+        "AIDS": {
+          "cases": 41,
+          "rate": 1.3,
+          "mortality": 13,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.2
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.5,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 2,
+          "rate": 0.2
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 9,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 31,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 13,
+          "rate": 0.7,
+          "mortality": 8,
+          "mortality_rate": 0.4
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 3.0
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 1.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.0
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 28,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.6,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 87,
+          "rate": 3.7
+        },
+        "AIDS": {
+          "cases": 40,
+          "rate": 1.7,
+          "mortality": 18,
+          "mortality_rate": 0.8
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 28,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 3,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 11,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.1
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 50,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 15,
+          "rate": 0.6,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 10,
+          "rate": 0.8,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 9,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 19,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 59,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.3,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      }
+    },
+    "september": {
+      "Україна": {
+        "HIV": {
+          "cases": 711,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 254,
+          "rate": 0.6,
+          "mortality": 57,
+          "mortality_rate": 0.1
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 14,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 10,
+          "rate": 0.7,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 150,
+          "rate": 4.8
+        },
+        "AIDS": {
+          "cases": 37,
+          "rate": 1.2,
+          "mortality": 14,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 13,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.0,
+          "mortality": 2,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 28,
+          "rate": 2.4
+        },
+        "AIDS": {
+          "cases": 18,
+          "rate": 1.5,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.3,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 33,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 48,
+          "rate": 2.7,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 2.5
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.7,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 29,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 40,
+          "rate": 3.7
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.6,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 97,
+          "rate": 4.1
+        },
+        "AIDS": {
+          "cases": 39,
+          "rate": 1.7,
+          "mortality": 6,
+          "mortality_rate": 0.3
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 11,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.9,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 47,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 21,
+          "rate": 0.8,
+          "mortality": 12,
+          "mortality_rate": 0.5
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 17,
+          "rate": 1.4
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.1
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 42,
+          "rate": 4.4
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.7,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 49,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 0.4,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      }
+    },
+    "october": {
+      "Україна": {
+        "HIV": {
+          "cases": 602,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 205,
+          "rate": 0.5,
+          "mortality": 84,
+          "mortality_rate": 0.2
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.7,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 103,
+          "rate": 3.3
+        },
+        "AIDS": {
+          "cases": 29,
+          "rate": 0.9,
+          "mortality": 24,
+          "mortality_rate": 0.8
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 15,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 28,
+          "rate": 2.4
+        },
+        "AIDS": {
+          "cases": 15,
+          "rate": 1.3,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 10,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 11,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.3,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 0.9
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 40,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 15,
+          "rate": 0.8,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.6
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.8,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 26,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.1
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.5,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 74,
+          "rate": 3.2
+        },
+        "AIDS": {
+          "cases": 46,
+          "rate": 2.0,
+          "mortality": 25,
+          "mortality_rate": 1.1
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.8,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 12,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 33,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 0.5,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 5,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 9,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 20,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.3,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 21,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.7,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 51,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.2,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      }
+    },
+    "november": {
+      "Україна": {
+        "HIV": {
+          "cases": 621,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 187,
+          "rate": 0.5,
+          "mortality": 50,
+          "mortality_rate": 0.1
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 8,
+          "rate": 0.5,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 20,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.7,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 103,
+          "rate": 3.3
+        },
+        "AIDS": {
+          "cases": 22,
+          "rate": 0.7,
+          "mortality": 11,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 11,
+          "rate": 0.3
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 24,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 15,
+          "rate": 1.3,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 26,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 33,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 14,
+          "rate": 0.8,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 16,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 31,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.3,
+          "mortality": 1,
+          "mortality_rate": 0.0
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 30,
+          "rate": 2.7
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 89,
+          "rate": 3.8
+        },
+        "AIDS": {
+          "cases": 24,
+          "rate": 1.0,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.6
+        },
+        "AIDS": {
+          "cases": 9,
+          "rate": 0.7,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 13,
+          "rate": 1.1
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 7,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 8,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 34,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.4,
+          "mortality": 5,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 1,
+          "rate": 0.1
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 18,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.6,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 21,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.4,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.4
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.5,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 54,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 36,
+          "rate": 1.2,
+          "mortality": 6,
+          "mortality_rate": 0.2
+        }
+      }
+    },
+    "december": {
+      "Україна": {
+        "HIV": {
+          "cases": 695,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 202,
+          "rate": 0.5,
+          "mortality": 108,
+          "mortality_rate": 0.3
+        }
+      },
+      "Вінницька": {
+        "HIV": {
+          "cases": 27,
+          "rate": 1.8
+        },
+        "AIDS": {
+          "cases": 6,
+          "rate": 0.4,
+          "mortality": 3,
+          "mortality_rate": 0.2
+        }
+      },
+      "Волинська": {
+        "HIV": {
+          "cases": 13,
+          "rate": 1.3
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Дніпропетровська": {
+        "HIV": {
+          "cases": 119,
+          "rate": 3.8
+        },
+        "AIDS": {
+          "cases": 30,
+          "rate": 1.0,
+          "mortality": 14,
+          "mortality_rate": 0.4
+        }
+      },
+      "Донецька": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.1
+        },
+        "AIDS": {
+          "cases": 7,
+          "rate": 0.2,
+          "mortality": 3,
+          "mortality_rate": 0.1
+        }
+      },
+      "Житомирська": {
+        "HIV": {
+          "cases": 22,
+          "rate": 1.9
+        },
+        "AIDS": {
+          "cases": 16,
+          "rate": 1.4,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Закарпатська": {
+        "HIV": {
+          "cases": 9,
+          "rate": 0.7
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Запорізька": {
+        "HIV": {
+          "cases": 25,
+          "rate": 1.5
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.1,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Івано-Франківська": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.4
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Київська": {
+        "HIV": {
+          "cases": 54,
+          "rate": 3.0
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 0.6,
+          "mortality": 19,
+          "mortality_rate": 1.1
+        }
+      },
+      "Кіровоградська": {
+        "HIV": {
+          "cases": 20,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 1,
+          "rate": 0.1,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Луганська": {
+        "HIV": {
+          "cases": 0,
+          "rate": 0.0
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Львівська": {
+        "HIV": {
+          "cases": 20,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.1,
+          "mortality": 5,
+          "mortality_rate": 0.2
+        }
+      },
+      "Миколаївська": {
+        "HIV": {
+          "cases": 35,
+          "rate": 3.2
+        },
+        "AIDS": {
+          "cases": 16,
+          "rate": 1.5,
+          "mortality": 8,
+          "mortality_rate": 0.7
+        }
+      },
+      "Одеська": {
+        "HIV": {
+          "cases": 93,
+          "rate": 4.0
+        },
+        "AIDS": {
+          "cases": 34,
+          "rate": 1.5,
+          "mortality": 23,
+          "mortality_rate": 1.0
+        }
+      },
+      "Полтавська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 3,
+          "rate": 0.2,
+          "mortality": 1,
+          "mortality_rate": 0.1
+        }
+      },
+      "Рівненська": {
+        "HIV": {
+          "cases": 14,
+          "rate": 1.2
+        },
+        "AIDS": {
+          "cases": 4,
+          "rate": 0.4,
+          "mortality": 4,
+          "mortality_rate": 0.3
+        }
+      },
+      "Сумська": {
+        "HIV": {
+          "cases": 21,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 5,
+          "rate": 0.5,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Тернопільска": {
+        "HIV": {
+          "cases": 10,
+          "rate": 1.0
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Харківська": {
+        "HIV": {
+          "cases": 43,
+          "rate": 1.7
+        },
+        "AIDS": {
+          "cases": 19,
+          "rate": 0.7,
+          "mortality": 4,
+          "mortality_rate": 0.2
+        }
+      },
+      "Херсонська": {
+        "HIV": {
+          "cases": 6,
+          "rate": 0.6
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Хмельницька": {
+        "HIV": {
+          "cases": 10,
+          "rate": 0.8
+        },
+        "AIDS": {
+          "cases": 2,
+          "rate": 0.2,
+          "mortality": 2,
+          "mortality_rate": 0.2
+        }
+      },
+      "Черкаська": {
+        "HIV": {
+          "cases": 23,
+          "rate": 2.0
+        },
+        "AIDS": {
+          "cases": 11,
+          "rate": 1.0,
+          "mortality": 3,
+          "mortality_rate": 0.3
+        }
+      },
+      "Чернівецька": {
+        "HIV": {
+          "cases": 4,
+          "rate": 0.5
+        },
+        "AIDS": {
+          "cases": 0,
+          "rate": 0.0,
+          "mortality": 0,
+          "mortality_rate": 0.0
+        }
+      },
+      "Чернігівська": {
+        "HIV": {
+          "cases": 27,
+          "rate": 2.8
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 1.3,
+          "mortality": 5,
+          "mortality_rate": 0.5
+        }
+      },
+      "м. Київ": {
+        "HIV": {
+          "cases": 65,
+          "rate": 2.2
+        },
+        "AIDS": {
+          "cases": 12,
+          "rate": 0.4,
+          "mortality": 2,
+          "mortality_rate": 0.1
+        }
+      }
+    }
+  }
+}
