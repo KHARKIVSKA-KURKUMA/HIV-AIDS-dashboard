@@ -8,7 +8,9 @@ function App() {
   return (
     <>
       {/* <GlobalStyle /> */}
-      <BrowserRouter basename={import.meta.env.DEV ? "/" : "/FluChart/"}>
+      <BrowserRouter
+        basename={import.meta.env.DEV ? "/" : "/HIV-AIDS-dashboard/"}
+      >
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
