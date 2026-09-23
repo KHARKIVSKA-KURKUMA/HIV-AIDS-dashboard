@@ -30,7 +30,7 @@ import {
   Unit,
 } from "./UkraineMap.styled";
 
-const GEO_URL = "/ukraine_map.json";
+const GEO_URL = `${import.meta.env.BASE_URL}ukraine_map.json`;
 
 // я не обрала який варіант хочу)
 // const COLORS = ["#d1f8cd", "#76C457", "#FED976", "#FD8D3C", "#BD0026"];
