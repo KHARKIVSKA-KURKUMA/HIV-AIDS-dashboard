@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-import data from "../../../data/hivData.json";
+import data from "../../../data/HIVStats.json";
 import {
   Card,
   CardTitle,
@@ -11,14 +11,7 @@ import {
 } from "../ChartsComponents/ChartsPageStyled";
 import { BarChart, LineChart, PieCharts, Table } from "../ChartsComponents";
 import { COLORS, MONTHS, MONTH_LABELS } from "../consts";
-import {
-  ResponsiveContainer,
-  Tooltip,
-  PieChart,
-  Pie,
-  Cell,
-  Legend,
-} from "recharts";
+import { ResponsiveContainer, Tooltip, PieChart, Pie, Cell } from "recharts";
 
 export default function ChartsPage() {
   const years = Object.keys(data).sort((a, b) => b - a);

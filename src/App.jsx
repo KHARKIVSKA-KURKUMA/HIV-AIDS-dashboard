@@ -3,6 +3,7 @@ import Home from "./components/Home/Home";
 import Layout from "./components/Layout/Layout";
 import ChartsPage from "./components/pages/ChartsPage";
 import { GlobalStyle } from "./GlobalStyles";
+import MapPage from "./components/pages/MapPage";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="charts" element={<ChartsPage />} />
+            <Route path="map" element={<MapPage />} />
           </Route>
         </Routes>
       </BrowserRouter>
