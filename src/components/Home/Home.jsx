@@ -1,17 +1,11 @@
 import { useMemo } from "react";
 import { Link } from "react-router-dom";
-import {
-  Activity,
-  ArrowRight,
-  BarChart3,
-  MapPinned,
-  TrendingUp,
-  ShieldCheck,
-  Database,
-} from "lucide-react";
+import { Activity, ArrowRight, MapPinned, ShieldCheck } from "lucide-react";
 
 import data from "../../../data/HIVStats.json";
 import { MONTHS, MONTH_LABELS } from "../consts";
+import { getUkraineStats } from "../../utils/getUkraineStats";
+import { features } from "../consts/features";
 
 import {
   Container,
@@ -39,33 +33,6 @@ import {
   Footer,
 } from "./Home.styled";
 
-const features = [
-  {
-    icon: BarChart3,
-    title: "Аналіз захворюваності",
-    description:
-      "Досліджуйте динаміку показників ВІЛ за роками та місяцями за допомогою інтерактивних графіків.",
-  },
-  {
-    icon: MapPinned,
-    title: "Регіональна статистика",
-    description:
-      "Порівнюйте показники між областями України на інтерактивній карті.",
-  },
-  {
-    icon: TrendingUp,
-    title: "Прогнозування",
-    description:
-      "Аналізуйте прогнозні тенденції на основі історичних даних та статистичних моделей.",
-  },
-  {
-    icon: Database,
-    title: "Моніторинг даних",
-    description:
-      "Виявляйте зміни, пропуски та аномалії у статистичних показниках.",
-  },
-];
-
 const formatNumber = (value) => new Intl.NumberFormat("uk-UA").format(value);
 
 const Home = () => {
@@ -73,9 +40,12 @@ const Home = () => {
     const years = Object.keys(data).sort((a, b) => Number(b) - Number(a));
 
     const latestYear = years.find((year) =>
-      MONTHS.some(
-        (month) => data[year]?.[month]?.["Україна"]?.HIV?.cases != null,
-      ),
+      MONTHS.some((month) => {
+        const monthData = data[year]?.[month];
+        const ukraine = getUkraineStats(monthData);
+
+        return ukraine?.HIV?.cases != null;
+      }),
     );
 
     if (!latestYear) {
@@ -86,7 +56,10 @@ const Home = () => {
     }
 
     const values = MONTHS.map((month) => {
-      const rawCases = data[latestYear]?.[month]?.["Україна"]?.HIV?.cases;
+      const monthData = data[latestYear]?.[month];
+      const ukraine = getUkraineStats(monthData);
+
+      const rawCases = ukraine?.HIV?.cases;
 
       const cases =
         rawCases == null || rawCases === "" ? null : Number(rawCases);
@@ -95,6 +68,7 @@ const Home = () => {
         month,
         label: MONTH_LABELS[month],
         cases: cases !== null && Number.isFinite(cases) ? cases : null,
+        isEstimated: ukraine?.derivedFromRegions ?? false,
       };
     });
 

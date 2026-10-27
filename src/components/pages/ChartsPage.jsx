@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 
 import data from "../../../data/HIVStats.json";
+import { getUkraineStats } from "../../utils/getUkraineStats";
 
 import {
   Card,
@@ -78,13 +79,16 @@ export default function ChartsPage() {
 
   const ukraineYearData = useMemo(() => {
     return MONTHS.map((month) => {
-      const ukraine = data[selectedYear]?.[month]?.["Україна"];
+      const monthData = data[selectedYear]?.[month];
+
+      const ukraine = getUkraineStats(monthData);
 
       return {
         month: MONTH_LABELS[month],
         hivCases: ukraine?.HIV?.cases ?? null,
         aidsCases: ukraine?.AIDS?.cases ?? null,
         mortality: ukraine?.AIDS?.mortality ?? null,
+        isEstimated: ukraine?.derivedFromRegions ?? false,
       };
     });
   }, [selectedYear]);
@@ -218,7 +222,9 @@ export default function ChartsPage() {
             </ChartIcon>
 
             <div>
-              <CardTitle>ТОП-6 областей за ВІЛ</CardTitle>
+              <CardTitle>
+                ТОП-6 областей з найвищою захворюваністю на ВІЛ
+              </CardTitle>
               <CardDescription>
                 Регіони з найбільшою кількістю випадків
               </CardDescription>
